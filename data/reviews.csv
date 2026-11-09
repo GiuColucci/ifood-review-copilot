@@ -1,0 +1,601 @@
+id,restaurante,data,nota,texto
+1,Burger do Zé,2026-08-04,5,Chegou rapidinho e quentinho
+2,Burger do Zé,2026-10-26,5,"Sabor incrível, repetiria com certeza"
+3,Burger do Zé,2026-08-04,1,"Esperei quase 90 minutos, absurdo"
+4,Açaí Tropical,2026-08-26,5,"Ótimo custo-benefício, porção generosa"
+5,Açaí Tropical,2026-09-05,5,"Comida deliciosa, tempero perfeito"
+6,Pizzaria Bella Napoli,2026-09-05,1,Embalagem abriu e vazou tudo na sacola
+7,Marmita da Vovó,2026-08-13,1,Muito caro para a quantidade que veio
+8,Marmita da Vovó,2026-10-08,2,"Esperei quase 90 minutos, absurdo"
+9,Açaí Tropical,2026-09-16,5,"Comida deliciosa, tempero perfeito"
+10,Pizzaria Bella Napoli,2026-08-11,5,"Melhor hambúrguer da região, muito saboroso"
+11,Marmita da Vovó,2026-10-21,5,Entregador super educado e pontual
+12,Sushi Kenzo,2026-10-25,3,Ninguém respondeu minha reclamação no chat
+13,Sushi Kenzo,2026-10-08,5,Entregador super educado e pontual
+14,Pizzaria Bella Napoli,2026-10-21,4,Entregador super educado e pontual
+15,Sushi Kenzo,2026-08-05,4,"Ótimo custo-benefício, porção generosa"
+16,Sushi Kenzo,2026-10-12,5,"Embalagem muito bem feita, nada vazou"
+17,Marmita da Vovó,2026-10-22,5,"Embalagem muito bem feita, nada vazou"
+18,Açaí Tropical,2026-10-08,2,Muito caro para a quantidade que veio
+19,Sushi Kenzo,2026-08-18,4,"Comida deliciosa, tempero perfeito"
+20,Sushi Kenzo,2026-10-20,2,Muito caro para a quantidade que veio
+21,Marmita da Vovó,2026-10-16,4,"Embalagem muito bem feita, nada vazou"
+22,Açaí Tropical,2026-09-04,5,"Embalagem muito bem feita, nada vazou"
+23,Marmita da Vovó,2026-08-21,4,"Embalagem muito bem feita, nada vazou"
+24,Pizzaria Bella Napoli,2026-10-21,5,Chegou rapidinho e quentinho
+25,Sushi Kenzo,2026-10-09,5,"Sabor incrível, repetiria com certeza"
+26,Marmita da Vovó,2026-08-03,1,Muito caro para a quantidade que veio
+27,Burger do Zé,2026-08-31,5,"Comida deliciosa, tempero perfeito"
+28,Burger do Zé,2026-10-08,5,Entregador super educado e pontual
+29,Pizzaria Bella Napoli,2026-10-07,5,"Ótimo custo-benefício, porção generosa"
+30,Pizzaria Bella Napoli,2026-09-21,5,"Embalagem muito bem feita, nada vazou"
+31,Burger do Zé,2026-09-01,3,"Esperei quase 90 minutos, absurdo"
+32,Sushi Kenzo,2026-10-15,1,"Pedido incompleto, faltou um item"
+33,Sushi Kenzo,2026-08-09,5,"Embalagem muito bem feita, nada vazou"
+34,Pizzaria Bella Napoli,2026-10-25,5,Entregador super educado e pontual
+35,Marmita da Vovó,2026-09-22,2,Muito caro para a quantidade que veio
+36,Marmita da Vovó,2026-09-22,4,"Sabor incrível, repetiria com certeza"
+37,Burger do Zé,2026-09-21,5,"Comida deliciosa, tempero perfeito"
+38,Sushi Kenzo,2026-10-08,5,"Ótimo custo-benefício, porção generosa"
+39,Marmita da Vovó,2026-09-01,4,"Melhor hambúrguer da região, muito saboroso"
+40,Burger do Zé,2026-10-23,5,"Comida deliciosa, tempero perfeito"
+41,Sushi Kenzo,2026-09-22,4,Entregador super educado e pontual
+42,Sushi Kenzo,2026-09-18,2,Veio sem o molho que pedi
+43,Marmita da Vovó,2026-10-29,5,"Ótimo custo-benefício, porção generosa"
+44,Pizzaria Bella Napoli,2026-08-28,5,"Sabor incrível, repetiria com certeza"
+45,Burger do Zé,2026-08-07,4,Chegou rapidinho e quentinho
+46,Sushi Kenzo,2026-08-09,4,Entregador super educado e pontual
+47,Açaí Tropical,2026-09-01,4,"Sabor incrível, repetiria com certeza"
+48,Marmita da Vovó,2026-10-24,5,"Embalagem muito bem feita, nada vazou"
+49,Pizzaria Bella Napoli,2026-08-31,2,Carne estava seca e dura
+50,Pizzaria Bella Napoli,2026-08-10,1,Muito caro para a quantidade que veio
+51,Açaí Tropical,2026-08-28,4,Entregador super educado e pontual
+52,Sushi Kenzo,2026-09-17,2,"Pedido incompleto, faltou um item"
+53,Açaí Tropical,2026-10-23,5,"Embalagem muito bem feita, nada vazou"
+54,Pizzaria Bella Napoli,2026-08-15,5,Entregador super educado e pontual
+55,Açaí Tropical,2026-08-27,5,Entregador super educado e pontual
+56,Pizzaria Bella Napoli,2026-08-07,1,Carne estava seca e dura
+57,Burger do Zé,2026-09-12,5,"Embalagem muito bem feita, nada vazou"
+58,Açaí Tropical,2026-10-30,4,"Comida deliciosa, tempero perfeito"
+59,Sushi Kenzo,2026-10-09,1,"Pedido incompleto, faltou um item"
+60,Marmita da Vovó,2026-08-17,2,Muito caro para a quantidade que veio
+61,Sushi Kenzo,2026-10-27,2,"Pedido incompleto, faltou um item"
+62,Açaí Tropical,2026-08-20,5,Chegou rapidinho e quentinho
+63,Marmita da Vovó,2026-08-04,2,Comida sem sal e sem graça
+64,Sushi Kenzo,2026-10-29,1,Comida sem sal e sem graça
+65,Marmita da Vovó,2026-09-14,1,Faltou a bebida do meu pedido
+66,Sushi Kenzo,2026-09-21,3,"Tudo amassado, o açaí derreteu e vazou"
+67,Marmita da Vovó,2026-10-26,4,"Embalagem muito bem feita, nada vazou"
+68,Pizzaria Bella Napoli,2026-08-23,4,"Embalagem muito bem feita, nada vazou"
+69,Açaí Tropical,2026-09-25,2,Comida sem sal e sem graça
+70,Açaí Tropical,2026-08-25,3,"Esperei quase 90 minutos, absurdo"
+71,Sushi Kenzo,2026-09-16,4,"Embalagem muito bem feita, nada vazou"
+72,Pizzaria Bella Napoli,2026-10-04,2,Carne estava seca e dura
+73,Açaí Tropical,2026-08-17,3,Comida sem sal e sem graça
+74,Açaí Tropical,2026-09-08,5,"Melhor hambúrguer da região, muito saboroso"
+75,Sushi Kenzo,2026-09-25,5,"Embalagem muito bem feita, nada vazou"
+76,Marmita da Vovó,2026-10-26,1,Muito caro para a quantidade que veio
+77,Pizzaria Bella Napoli,2026-10-05,5,"Embalagem muito bem feita, nada vazou"
+78,Pizzaria Bella Napoli,2026-08-29,4,Chegou rapidinho e quentinho
+79,Sushi Kenzo,2026-09-30,5,"Melhor hambúrguer da região, muito saboroso"
+80,Açaí Tropical,2026-08-25,5,"Ótimo custo-benefício, porção generosa"
+81,Sushi Kenzo,2026-08-19,5,"Comida deliciosa, tempero perfeito"
+82,Sushi Kenzo,2026-08-23,5,"Ótimo custo-benefício, porção generosa"
+83,Burger do Zé,2026-09-28,3,"Esperei quase 90 minutos, absurdo"
+84,Açaí Tropical,2026-09-10,5,"Ótimo custo-benefício, porção generosa"
+85,Sushi Kenzo,2026-09-30,5,Entregador super educado e pontual
+86,Sushi Kenzo,2026-09-05,5,"Embalagem muito bem feita, nada vazou"
+87,Pizzaria Bella Napoli,2026-09-10,5,"Comida deliciosa, tempero perfeito"
+88,Sushi Kenzo,2026-09-19,5,Chegou rapidinho e quentinho
+89,Marmita da Vovó,2026-09-12,5,"Ótimo custo-benefício, porção generosa"
+90,Marmita da Vovó,2026-09-19,5,"Sabor incrível, repetiria com certeza"
+91,Marmita da Vovó,2026-08-01,5,"Embalagem muito bem feita, nada vazou"
+92,Açaí Tropical,2026-10-09,5,Entregador super educado e pontual
+93,Pizzaria Bella Napoli,2026-09-25,5,"Ótimo custo-benefício, porção generosa"
+94,Sushi Kenzo,2026-09-29,4,"Melhor hambúrguer da região, muito saboroso"
+95,Burger do Zé,2026-10-22,4,"Ótimo custo-benefício, porção generosa"
+96,Pizzaria Bella Napoli,2026-09-18,2,Carne estava seca e dura
+97,Pizzaria Bella Napoli,2026-09-23,3,Comida sem sal e sem graça
+98,Burger do Zé,2026-09-14,1,"Esperei quase 90 minutos, absurdo"
+99,Burger do Zé,2026-09-01,1,Demorou mais de 1 hora para chegar
+100,Sushi Kenzo,2026-09-30,5,Entregador super educado e pontual
+101,Pizzaria Bella Napoli,2026-08-22,5,"Comida deliciosa, tempero perfeito"
+102,Burger do Zé,2026-10-14,2,"Esperei quase 90 minutos, absurdo"
+103,Marmita da Vovó,2026-08-26,1,Ninguém respondeu minha reclamação no chat
+104,Pizzaria Bella Napoli,2026-10-27,4,"Sabor incrível, repetiria com certeza"
+105,Pizzaria Bella Napoli,2026-10-08,5,"Embalagem muito bem feita, nada vazou"
+106,Burger do Zé,2026-09-23,5,"Melhor hambúrguer da região, muito saboroso"
+107,Marmita da Vovó,2026-10-30,3,Muito caro para a quantidade que veio
+108,Açaí Tropical,2026-10-01,5,"Embalagem muito bem feita, nada vazou"
+109,Burger do Zé,2026-09-05,5,Entregador super educado e pontual
+110,Pizzaria Bella Napoli,2026-08-04,5,"Embalagem muito bem feita, nada vazou"
+111,Sushi Kenzo,2026-09-15,5,"Embalagem muito bem feita, nada vazou"
+112,Açaí Tropical,2026-08-02,5,Chegou rapidinho e quentinho
+113,Marmita da Vovó,2026-10-02,5,Entregador super educado e pontual
+114,Marmita da Vovó,2026-08-03,2,Muito caro para a quantidade que veio
+115,Açaí Tropical,2026-09-17,5,"Embalagem muito bem feita, nada vazou"
+116,Pizzaria Bella Napoli,2026-10-29,5,"Embalagem muito bem feita, nada vazou"
+117,Burger do Zé,2026-08-25,1,Ninguém respondeu minha reclamação no chat
+118,Sushi Kenzo,2026-10-01,1,Muito caro para a quantidade que veio
+119,Sushi Kenzo,2026-09-07,3,Faltou a bebida do meu pedido
+120,Sushi Kenzo,2026-09-05,1,Veio sem o molho que pedi
+121,Marmita da Vovó,2026-08-14,5,"Embalagem muito bem feita, nada vazou"
+122,Marmita da Vovó,2026-09-13,1,Muito caro para a quantidade que veio
+123,Burger do Zé,2026-09-21,5,"Comida deliciosa, tempero perfeito"
+124,Açaí Tropical,2026-09-08,3,"Tudo amassado, o açaí derreteu e vazou"
+125,Açaí Tropical,2026-10-19,2,"Tudo amassado, o açaí derreteu e vazou"
+126,Pizzaria Bella Napoli,2026-10-15,4,"Embalagem muito bem feita, nada vazou"
+127,Sushi Kenzo,2026-10-20,1,Faltou a bebida do meu pedido
+128,Açaí Tropical,2026-08-10,2,"Tudo amassado, o açaí derreteu e vazou"
+129,Burger do Zé,2026-08-30,1,Pedido atrasou muito e chegou frio
+130,Sushi Kenzo,2026-09-03,4,Entregador super educado e pontual
+131,Açaí Tropical,2026-08-29,4,"Embalagem muito bem feita, nada vazou"
+132,Burger do Zé,2026-08-22,4,"Embalagem muito bem feita, nada vazou"
+133,Marmita da Vovó,2026-10-28,3,Muito caro para a quantidade que veio
+134,Açaí Tropical,2026-10-03,5,"Melhor hambúrguer da região, muito saboroso"
+135,Açaí Tropical,2026-09-02,2,Embalagem abriu e vazou tudo na sacola
+136,Açaí Tropical,2026-08-06,5,Entregador super educado e pontual
+137,Pizzaria Bella Napoli,2026-08-24,4,"Ótimo custo-benefício, porção generosa"
+138,Marmita da Vovó,2026-09-14,5,"Embalagem muito bem feita, nada vazou"
+139,Pizzaria Bella Napoli,2026-09-22,4,"Embalagem muito bem feita, nada vazou"
+140,Marmita da Vovó,2026-08-12,3,Muito caro para a quantidade que veio
+141,Burger do Zé,2026-10-24,4,"Ótimo custo-benefício, porção generosa"
+142,Sushi Kenzo,2026-10-06,1,"Atendimento ruim, fui ignorado"
+143,Sushi Kenzo,2026-09-04,5,"Embalagem muito bem feita, nada vazou"
+144,Burger do Zé,2026-08-04,5,Chegou rapidinho e quentinho
+145,Açaí Tropical,2026-08-02,4,"Comida deliciosa, tempero perfeito"
+146,Marmita da Vovó,2026-08-16,5,Entregador super educado e pontual
+147,Açaí Tropical,2026-10-30,2,Comida sem sal e sem graça
+148,Açaí Tropical,2026-08-19,5,Chegou rapidinho e quentinho
+149,Marmita da Vovó,2026-09-13,5,"Embalagem muito bem feita, nada vazou"
+150,Pizzaria Bella Napoli,2026-10-15,5,"Ótimo custo-benefício, porção generosa"
+151,Açaí Tropical,2026-10-01,2,Muito caro para a quantidade que veio
+152,Pizzaria Bella Napoli,2026-08-25,5,Entregador super educado e pontual
+153,Marmita da Vovó,2026-08-06,2,Muito caro para a quantidade que veio
+154,Sushi Kenzo,2026-10-03,4,Entregador super educado e pontual
+155,Marmita da Vovó,2026-08-13,5,"Ótimo custo-benefício, porção generosa"
+156,Marmita da Vovó,2026-10-23,5,"Melhor hambúrguer da região, muito saboroso"
+157,Pizzaria Bella Napoli,2026-10-19,5,"Melhor hambúrguer da região, muito saboroso"
+158,Pizzaria Bella Napoli,2026-10-20,4,"Ótimo custo-benefício, porção generosa"
+159,Sushi Kenzo,2026-10-20,4,"Embalagem muito bem feita, nada vazou"
+160,Marmita da Vovó,2026-08-13,5,"Melhor hambúrguer da região, muito saboroso"
+161,Pizzaria Bella Napoli,2026-08-04,2,"Tudo amassado, o açaí derreteu e vazou"
+162,Marmita da Vovó,2026-08-19,1,Muito caro para a quantidade que veio
+163,Sushi Kenzo,2026-08-11,5,"Ótimo custo-benefício, porção generosa"
+164,Açaí Tropical,2026-08-19,1,Carne estava seca e dura
+165,Marmita da Vovó,2026-09-06,5,Chegou rapidinho e quentinho
+166,Pizzaria Bella Napoli,2026-10-15,2,"Atendimento ruim, fui ignorado"
+167,Pizzaria Bella Napoli,2026-08-26,5,"Ótimo custo-benefício, porção generosa"
+168,Marmita da Vovó,2026-10-13,1,Muito caro para a quantidade que veio
+169,Marmita da Vovó,2026-09-05,3,Ninguém respondeu minha reclamação no chat
+170,Marmita da Vovó,2026-09-06,5,Entregador super educado e pontual
+171,Sushi Kenzo,2026-10-19,1,Ninguém respondeu minha reclamação no chat
+172,Burger do Zé,2026-09-09,5,"Sabor incrível, repetiria com certeza"
+173,Sushi Kenzo,2026-08-12,5,"Embalagem muito bem feita, nada vazou"
+174,Sushi Kenzo,2026-08-17,5,"Embalagem muito bem feita, nada vazou"
+175,Pizzaria Bella Napoli,2026-10-01,4,"Embalagem muito bem feita, nada vazou"
+176,Marmita da Vovó,2026-08-10,3,"Atendimento ruim, fui ignorado"
+177,Pizzaria Bella Napoli,2026-08-12,4,"Melhor hambúrguer da região, muito saboroso"
+178,Marmita da Vovó,2026-09-17,5,"Embalagem muito bem feita, nada vazou"
+179,Burger do Zé,2026-10-26,2,"Esperei quase 90 minutos, absurdo"
+180,Açaí Tropical,2026-08-29,5,"Ótimo custo-benefício, porção generosa"
+181,Burger do Zé,2026-08-18,1,Pedido atrasou muito e chegou frio
+182,Burger do Zé,2026-08-31,5,Entregador super educado e pontual
+183,Pizzaria Bella Napoli,2026-10-25,5,"Ótimo custo-benefício, porção generosa"
+184,Burger do Zé,2026-10-02,5,"Embalagem muito bem feita, nada vazou"
+185,Sushi Kenzo,2026-09-26,4,Entregador super educado e pontual
+186,Pizzaria Bella Napoli,2026-10-09,5,"Embalagem muito bem feita, nada vazou"
+187,Pizzaria Bella Napoli,2026-08-25,5,"Ótimo custo-benefício, porção generosa"
+188,Açaí Tropical,2026-08-03,3,Embalagem abriu e vazou tudo na sacola
+189,Sushi Kenzo,2026-08-09,5,Chegou rapidinho e quentinho
+190,Pizzaria Bella Napoli,2026-08-19,5,"Melhor hambúrguer da região, muito saboroso"
+191,Sushi Kenzo,2026-10-09,1,"Pedido incompleto, faltou um item"
+192,Sushi Kenzo,2026-08-02,1,Muito caro para a quantidade que veio
+193,Sushi Kenzo,2026-09-03,1,Muito caro para a quantidade que veio
+194,Marmita da Vovó,2026-09-27,5,"Melhor hambúrguer da região, muito saboroso"
+195,Açaí Tropical,2026-08-06,4,"Embalagem muito bem feita, nada vazou"
+196,Burger do Zé,2026-10-01,5,"Ótimo custo-benefício, porção generosa"
+197,Marmita da Vovó,2026-08-10,4,"Embalagem muito bem feita, nada vazou"
+198,Sushi Kenzo,2026-09-05,5,"Embalagem muito bem feita, nada vazou"
+199,Marmita da Vovó,2026-10-04,4,"Sabor incrível, repetiria com certeza"
+200,Açaí Tropical,2026-08-28,5,Entregador super educado e pontual
+201,Marmita da Vovó,2026-09-21,5,"Melhor hambúrguer da região, muito saboroso"
+202,Pizzaria Bella Napoli,2026-10-25,1,"Atendimento ruim, fui ignorado"
+203,Burger do Zé,2026-08-11,2,"Esperei quase 90 minutos, absurdo"
+204,Sushi Kenzo,2026-10-11,1,Muito caro para a quantidade que veio
+205,Marmita da Vovó,2026-09-15,5,"Ótimo custo-benefício, porção generosa"
+206,Açaí Tropical,2026-09-09,2,Faltou a bebida do meu pedido
+207,Sushi Kenzo,2026-08-14,3,Pedido atrasou muito e chegou frio
+208,Sushi Kenzo,2026-09-24,5,"Sabor incrível, repetiria com certeza"
+209,Burger do Zé,2026-08-24,1,"Tudo amassado, o açaí derreteu e vazou"
+210,Sushi Kenzo,2026-08-19,5,"Ótimo custo-benefício, porção generosa"
+211,Burger do Zé,2026-08-12,5,Entregador super educado e pontual
+212,Marmita da Vovó,2026-09-13,3,Muito caro para a quantidade que veio
+213,Açaí Tropical,2026-08-11,4,Chegou rapidinho e quentinho
+214,Burger do Zé,2026-09-04,5,"Ótimo custo-benefício, porção generosa"
+215,Marmita da Vovó,2026-09-04,2,Muito caro para a quantidade que veio
+216,Burger do Zé,2026-09-06,4,"Ótimo custo-benefício, porção generosa"
+217,Sushi Kenzo,2026-09-20,5,"Comida deliciosa, tempero perfeito"
+218,Pizzaria Bella Napoli,2026-08-28,5,"Embalagem muito bem feita, nada vazou"
+219,Burger do Zé,2026-08-01,5,"Ótimo custo-benefício, porção generosa"
+220,Marmita da Vovó,2026-10-08,5,"Embalagem muito bem feita, nada vazou"
+221,Burger do Zé,2026-09-25,3,"Tudo amassado, o açaí derreteu e vazou"
+222,Marmita da Vovó,2026-10-30,5,"Embalagem muito bem feita, nada vazou"
+223,Burger do Zé,2026-09-11,1,Carne estava seca e dura
+224,Marmita da Vovó,2026-08-14,2,Muito caro para a quantidade que veio
+225,Pizzaria Bella Napoli,2026-09-13,1,"Esperei quase 90 minutos, absurdo"
+226,Açaí Tropical,2026-10-05,1,Embalagem abriu e vazou tudo na sacola
+227,Burger do Zé,2026-08-19,1,Demorou mais de 1 hora para chegar
+228,Sushi Kenzo,2026-10-20,5,"Ótimo custo-benefício, porção generosa"
+229,Sushi Kenzo,2026-09-26,2,Veio sem o molho que pedi
+230,Açaí Tropical,2026-08-08,2,"Tudo amassado, o açaí derreteu e vazou"
+231,Burger do Zé,2026-08-08,1,"Esperei quase 90 minutos, absurdo"
+232,Açaí Tropical,2026-10-16,5,"Ótimo custo-benefício, porção generosa"
+233,Açaí Tropical,2026-10-23,1,Muito caro para a quantidade que veio
+234,Marmita da Vovó,2026-08-14,5,"Embalagem muito bem feita, nada vazou"
+235,Burger do Zé,2026-09-01,5,"Ótimo custo-benefício, porção generosa"
+236,Pizzaria Bella Napoli,2026-09-06,5,"Embalagem muito bem feita, nada vazou"
+237,Burger do Zé,2026-09-12,3,"Tudo amassado, o açaí derreteu e vazou"
+238,Sushi Kenzo,2026-09-12,2,"Tudo amassado, o açaí derreteu e vazou"
+239,Sushi Kenzo,2026-10-16,5,"Melhor hambúrguer da região, muito saboroso"
+240,Pizzaria Bella Napoli,2026-08-17,5,"Sabor incrível, repetiria com certeza"
+241,Açaí Tropical,2026-09-16,2,Embalagem abriu e vazou tudo na sacola
+242,Marmita da Vovó,2026-08-25,2,Muito caro para a quantidade que veio
+243,Burger do Zé,2026-10-04,5,"Sabor incrível, repetiria com certeza"
+244,Açaí Tropical,2026-08-17,5,Chegou rapidinho e quentinho
+245,Açaí Tropical,2026-08-22,5,"Melhor hambúrguer da região, muito saboroso"
+246,Sushi Kenzo,2026-09-26,5,"Ótimo custo-benefício, porção generosa"
+247,Pizzaria Bella Napoli,2026-09-30,5,Entregador super educado e pontual
+248,Marmita da Vovó,2026-09-06,5,"Ótimo custo-benefício, porção generosa"
+249,Açaí Tropical,2026-08-18,5,"Sabor incrível, repetiria com certeza"
+250,Pizzaria Bella Napoli,2026-10-10,4,"Melhor hambúrguer da região, muito saboroso"
+251,Sushi Kenzo,2026-09-04,4,Entregador super educado e pontual
+252,Sushi Kenzo,2026-09-27,4,"Melhor hambúrguer da região, muito saboroso"
+253,Marmita da Vovó,2026-10-04,2,Muito caro para a quantidade que veio
+254,Sushi Kenzo,2026-08-04,2,"Pedido incompleto, faltou um item"
+255,Sushi Kenzo,2026-08-18,2,Comida sem sal e sem graça
+256,Marmita da Vovó,2026-10-18,1,Muito caro para a quantidade que veio
+257,Sushi Kenzo,2026-10-10,5,"Ótimo custo-benefício, porção generosa"
+258,Sushi Kenzo,2026-09-08,3,"Pedido incompleto, faltou um item"
+259,Marmita da Vovó,2026-08-09,3,Muito caro para a quantidade que veio
+260,Açaí Tropical,2026-08-31,4,"Embalagem muito bem feita, nada vazou"
+261,Açaí Tropical,2026-09-15,3,Embalagem abriu e vazou tudo na sacola
+262,Pizzaria Bella Napoli,2026-08-09,5,"Melhor hambúrguer da região, muito saboroso"
+263,Burger do Zé,2026-10-21,4,"Embalagem muito bem feita, nada vazou"
+264,Pizzaria Bella Napoli,2026-08-09,3,Ninguém respondeu minha reclamação no chat
+265,Pizzaria Bella Napoli,2026-08-18,2,Comida sem sal e sem graça
+266,Marmita da Vovó,2026-10-20,1,Muito caro para a quantidade que veio
+267,Pizzaria Bella Napoli,2026-08-26,2,Comida sem sal e sem graça
+268,Pizzaria Bella Napoli,2026-10-05,4,"Ótimo custo-benefício, porção generosa"
+269,Sushi Kenzo,2026-09-06,2,"Atendimento ruim, fui ignorado"
+270,Burger do Zé,2026-09-17,5,"Ótimo custo-benefício, porção generosa"
+271,Pizzaria Bella Napoli,2026-08-24,5,"Ótimo custo-benefício, porção generosa"
+272,Burger do Zé,2026-09-24,2,"Pedido incompleto, faltou um item"
+273,Pizzaria Bella Napoli,2026-08-14,3,"Tudo amassado, o açaí derreteu e vazou"
+274,Marmita da Vovó,2026-08-22,4,"Embalagem muito bem feita, nada vazou"
+275,Pizzaria Bella Napoli,2026-10-18,4,"Embalagem muito bem feita, nada vazou"
+276,Marmita da Vovó,2026-09-16,5,Chegou rapidinho e quentinho
+277,Açaí Tropical,2026-10-26,4,"Comida deliciosa, tempero perfeito"
+278,Sushi Kenzo,2026-10-22,1,"Pedido incompleto, faltou um item"
+279,Açaí Tropical,2026-08-20,5,"Embalagem muito bem feita, nada vazou"
+280,Burger do Zé,2026-10-13,2,Pedido atrasou muito e chegou frio
+281,Sushi Kenzo,2026-08-15,2,"Pedido incompleto, faltou um item"
+282,Açaí Tropical,2026-08-16,1,"Tudo amassado, o açaí derreteu e vazou"
+283,Açaí Tropical,2026-09-06,4,"Ótimo custo-benefício, porção generosa"
+284,Sushi Kenzo,2026-08-10,5,"Ótimo custo-benefício, porção generosa"
+285,Pizzaria Bella Napoli,2026-10-30,1,Carne estava seca e dura
+286,Sushi Kenzo,2026-09-16,5,"Comida deliciosa, tempero perfeito"
+287,Sushi Kenzo,2026-10-03,3,"Tudo amassado, o açaí derreteu e vazou"
+288,Sushi Kenzo,2026-10-18,5,"Melhor hambúrguer da região, muito saboroso"
+289,Marmita da Vovó,2026-10-07,5,"Ótimo custo-benefício, porção generosa"
+290,Pizzaria Bella Napoli,2026-10-22,1,Carne estava seca e dura
+291,Açaí Tropical,2026-10-21,4,Entregador super educado e pontual
+292,Burger do Zé,2026-10-06,1,Pedido atrasou muito e chegou frio
+293,Pizzaria Bella Napoli,2026-10-06,5,"Melhor hambúrguer da região, muito saboroso"
+294,Açaí Tropical,2026-09-05,3,Embalagem abriu e vazou tudo na sacola
+295,Sushi Kenzo,2026-10-15,5,Chegou rapidinho e quentinho
+296,Açaí Tropical,2026-08-06,4,"Comida deliciosa, tempero perfeito"
+297,Açaí Tropical,2026-09-03,5,"Ótimo custo-benefício, porção generosa"
+298,Açaí Tropical,2026-09-07,5,"Embalagem muito bem feita, nada vazou"
+299,Marmita da Vovó,2026-09-08,5,"Comida deliciosa, tempero perfeito"
+300,Marmita da Vovó,2026-10-01,5,"Embalagem muito bem feita, nada vazou"
+301,Pizzaria Bella Napoli,2026-09-14,4,Entregador super educado e pontual
+302,Pizzaria Bella Napoli,2026-08-31,5,"Embalagem muito bem feita, nada vazou"
+303,Sushi Kenzo,2026-08-13,1,Muito caro para a quantidade que veio
+304,Sushi Kenzo,2026-09-11,5,"Embalagem muito bem feita, nada vazou"
+305,Marmita da Vovó,2026-10-05,4,"Embalagem muito bem feita, nada vazou"
+306,Burger do Zé,2026-09-20,5,Chegou rapidinho e quentinho
+307,Burger do Zé,2026-08-07,2,"Atendimento ruim, fui ignorado"
+308,Açaí Tropical,2026-08-02,5,"Ótimo custo-benefício, porção generosa"
+309,Pizzaria Bella Napoli,2026-09-21,2,Comida sem sal e sem graça
+310,Açaí Tropical,2026-09-06,3,"Tudo amassado, o açaí derreteu e vazou"
+311,Açaí Tropical,2026-08-16,2,"Tudo amassado, o açaí derreteu e vazou"
+312,Açaí Tropical,2026-09-16,4,Entregador super educado e pontual
+313,Burger do Zé,2026-08-05,3,Pedido atrasou muito e chegou frio
+314,Marmita da Vovó,2026-08-20,5,Entregador super educado e pontual
+315,Sushi Kenzo,2026-09-20,5,"Embalagem muito bem feita, nada vazou"
+316,Açaí Tropical,2026-09-08,5,"Melhor hambúrguer da região, muito saboroso"
+317,Burger do Zé,2026-09-23,5,"Sabor incrível, repetiria com certeza"
+318,Pizzaria Bella Napoli,2026-10-23,5,Chegou rapidinho e quentinho
+319,Sushi Kenzo,2026-10-07,5,"Ótimo custo-benefício, porção generosa"
+320,Burger do Zé,2026-10-13,4,"Comida deliciosa, tempero perfeito"
+321,Marmita da Vovó,2026-09-10,5,"Ótimo custo-benefício, porção generosa"
+322,Açaí Tropical,2026-10-18,5,"Sabor incrível, repetiria com certeza"
+323,Açaí Tropical,2026-08-27,5,"Ótimo custo-benefício, porção generosa"
+324,Sushi Kenzo,2026-09-28,5,"Embalagem muito bem feita, nada vazou"
+325,Açaí Tropical,2026-10-01,1,"Tudo amassado, o açaí derreteu e vazou"
+326,Pizzaria Bella Napoli,2026-09-06,5,"Ótimo custo-benefício, porção generosa"
+327,Pizzaria Bella Napoli,2026-10-11,4,"Embalagem muito bem feita, nada vazou"
+328,Açaí Tropical,2026-10-26,5,"Ótimo custo-benefício, porção generosa"
+329,Pizzaria Bella Napoli,2026-08-06,2,"Tudo amassado, o açaí derreteu e vazou"
+330,Marmita da Vovó,2026-08-28,1,Muito caro para a quantidade que veio
+331,Burger do Zé,2026-10-18,4,Chegou rapidinho e quentinho
+332,Açaí Tropical,2026-08-29,5,"Comida deliciosa, tempero perfeito"
+333,Pizzaria Bella Napoli,2026-09-30,1,"Esperei quase 90 minutos, absurdo"
+334,Marmita da Vovó,2026-10-23,5,"Ótimo custo-benefício, porção generosa"
+335,Pizzaria Bella Napoli,2026-09-11,3,Comida sem sal e sem graça
+336,Sushi Kenzo,2026-10-08,5,"Comida deliciosa, tempero perfeito"
+337,Sushi Kenzo,2026-08-05,5,"Ótimo custo-benefício, porção generosa"
+338,Pizzaria Bella Napoli,2026-08-05,2,Pedido atrasou muito e chegou frio
+339,Marmita da Vovó,2026-10-22,5,"Ótimo custo-benefício, porção generosa"
+340,Pizzaria Bella Napoli,2026-08-25,5,"Embalagem muito bem feita, nada vazou"
+341,Pizzaria Bella Napoli,2026-08-24,3,Carne estava seca e dura
+342,Sushi Kenzo,2026-08-23,5,"Ótimo custo-benefício, porção generosa"
+343,Burger do Zé,2026-09-21,5,Chegou rapidinho e quentinho
+344,Pizzaria Bella Napoli,2026-09-01,2,Carne estava seca e dura
+345,Pizzaria Bella Napoli,2026-09-08,5,"Melhor hambúrguer da região, muito saboroso"
+346,Sushi Kenzo,2026-08-08,5,"Ótimo custo-benefício, porção generosa"
+347,Marmita da Vovó,2026-10-27,5,"Embalagem muito bem feita, nada vazou"
+348,Pizzaria Bella Napoli,2026-10-18,2,Comida sem sal e sem graça
+349,Açaí Tropical,2026-09-17,5,"Ótimo custo-benefício, porção generosa"
+350,Açaí Tropical,2026-08-11,4,"Embalagem muito bem feita, nada vazou"
+351,Burger do Zé,2026-10-10,5,Chegou rapidinho e quentinho
+352,Pizzaria Bella Napoli,2026-10-06,4,Entregador super educado e pontual
+353,Açaí Tropical,2026-09-27,5,"Ótimo custo-benefício, porção generosa"
+354,Marmita da Vovó,2026-10-12,1,Muito caro para a quantidade que veio
+355,Marmita da Vovó,2026-09-02,4,Chegou rapidinho e quentinho
+356,Marmita da Vovó,2026-09-14,5,"Comida deliciosa, tempero perfeito"
+357,Burger do Zé,2026-09-06,5,Entregador super educado e pontual
+358,Marmita da Vovó,2026-09-27,4,"Ótimo custo-benefício, porção generosa"
+359,Açaí Tropical,2026-08-18,5,"Embalagem muito bem feita, nada vazou"
+360,Açaí Tropical,2026-09-20,4,Chegou rapidinho e quentinho
+361,Pizzaria Bella Napoli,2026-09-29,5,"Ótimo custo-benefício, porção generosa"
+362,Sushi Kenzo,2026-09-28,1,"Pedido incompleto, faltou um item"
+363,Burger do Zé,2026-10-24,5,"Comida deliciosa, tempero perfeito"
+364,Burger do Zé,2026-08-13,5,"Ótimo custo-benefício, porção generosa"
+365,Burger do Zé,2026-09-21,5,Chegou rapidinho e quentinho
+366,Açaí Tropical,2026-09-07,3,Muito caro para a quantidade que veio
+367,Açaí Tropical,2026-10-26,5,Entregador super educado e pontual
+368,Açaí Tropical,2026-08-29,5,"Embalagem muito bem feita, nada vazou"
+369,Marmita da Vovó,2026-10-11,5,"Embalagem muito bem feita, nada vazou"
+370,Marmita da Vovó,2026-09-22,1,Muito caro para a quantidade que veio
+371,Sushi Kenzo,2026-09-08,4,Entregador super educado e pontual
+372,Açaí Tropical,2026-09-22,5,Entregador super educado e pontual
+373,Pizzaria Bella Napoli,2026-08-27,2,Carne estava seca e dura
+374,Burger do Zé,2026-10-08,5,Chegou rapidinho e quentinho
+375,Marmita da Vovó,2026-10-26,5,"Comida deliciosa, tempero perfeito"
+376,Açaí Tropical,2026-10-25,5,"Ótimo custo-benefício, porção generosa"
+377,Pizzaria Bella Napoli,2026-08-02,2,Comida sem sal e sem graça
+378,Sushi Kenzo,2026-10-29,5,Entregador super educado e pontual
+379,Açaí Tropical,2026-09-11,5,"Ótimo custo-benefício, porção generosa"
+380,Pizzaria Bella Napoli,2026-09-03,2,Comida sem sal e sem graça
+381,Pizzaria Bella Napoli,2026-08-27,1,Comida sem sal e sem graça
+382,Burger do Zé,2026-09-03,5,"Ótimo custo-benefício, porção generosa"
+383,Sushi Kenzo,2026-09-12,3,Veio sem o molho que pedi
+384,Pizzaria Bella Napoli,2026-09-02,5,"Ótimo custo-benefício, porção generosa"
+385,Sushi Kenzo,2026-09-15,3,Comida sem sal e sem graça
+386,Burger do Zé,2026-10-07,1,Ninguém respondeu minha reclamação no chat
+387,Marmita da Vovó,2026-08-18,5,Chegou rapidinho e quentinho
+388,Burger do Zé,2026-08-28,5,"Embalagem muito bem feita, nada vazou"
+389,Marmita da Vovó,2026-08-03,3,Demorou mais de 1 hora para chegar
+390,Pizzaria Bella Napoli,2026-10-08,5,"Sabor incrível, repetiria com certeza"
+391,Sushi Kenzo,2026-08-14,5,Chegou rapidinho e quentinho
+392,Açaí Tropical,2026-10-07,1,"Tudo amassado, o açaí derreteu e vazou"
+393,Pizzaria Bella Napoli,2026-09-21,5,Chegou rapidinho e quentinho
+394,Burger do Zé,2026-10-23,5,"Comida deliciosa, tempero perfeito"
+395,Marmita da Vovó,2026-09-18,4,"Sabor incrível, repetiria com certeza"
+396,Sushi Kenzo,2026-08-11,4,"Ótimo custo-benefício, porção generosa"
+397,Açaí Tropical,2026-08-06,2,"Atendimento ruim, fui ignorado"
+398,Burger do Zé,2026-08-10,5,"Embalagem muito bem feita, nada vazou"
+399,Pizzaria Bella Napoli,2026-08-03,4,Entregador super educado e pontual
+400,Pizzaria Bella Napoli,2026-08-21,5,"Ótimo custo-benefício, porção generosa"
+401,Sushi Kenzo,2026-10-28,4,"Embalagem muito bem feita, nada vazou"
+402,Marmita da Vovó,2026-08-30,5,"Embalagem muito bem feita, nada vazou"
+403,Burger do Zé,2026-10-21,2,Comida sem sal e sem graça
+404,Açaí Tropical,2026-09-18,5,"Ótimo custo-benefício, porção generosa"
+405,Sushi Kenzo,2026-08-10,1,"Pedido incompleto, faltou um item"
+406,Marmita da Vovó,2026-09-10,2,Muito caro para a quantidade que veio
+407,Pizzaria Bella Napoli,2026-09-04,2,Carne estava seca e dura
+408,Açaí Tropical,2026-10-11,4,"Comida deliciosa, tempero perfeito"
+409,Pizzaria Bella Napoli,2026-10-10,1,"Tudo amassado, o açaí derreteu e vazou"
+410,Pizzaria Bella Napoli,2026-09-22,5,"Sabor incrível, repetiria com certeza"
+411,Açaí Tropical,2026-10-06,2,Embalagem abriu e vazou tudo na sacola
+412,Pizzaria Bella Napoli,2026-09-04,5,"Comida deliciosa, tempero perfeito"
+413,Pizzaria Bella Napoli,2026-09-23,1,"Tudo amassado, o açaí derreteu e vazou"
+414,Marmita da Vovó,2026-10-16,5,"Ótimo custo-benefício, porção generosa"
+415,Pizzaria Bella Napoli,2026-08-01,5,"Embalagem muito bem feita, nada vazou"
+416,Marmita da Vovó,2026-09-12,5,Entregador super educado e pontual
+417,Açaí Tropical,2026-10-28,2,"Tudo amassado, o açaí derreteu e vazou"
+418,Pizzaria Bella Napoli,2026-10-28,5,Entregador super educado e pontual
+419,Pizzaria Bella Napoli,2026-09-20,3,"Pedido incompleto, faltou um item"
+420,Sushi Kenzo,2026-10-27,5,"Sabor incrível, repetiria com certeza"
+421,Sushi Kenzo,2026-09-26,5,"Melhor hambúrguer da região, muito saboroso"
+422,Sushi Kenzo,2026-10-21,2,Faltou a bebida do meu pedido
+423,Marmita da Vovó,2026-08-10,5,"Ótimo custo-benefício, porção generosa"
+424,Açaí Tropical,2026-08-05,4,"Embalagem muito bem feita, nada vazou"
+425,Sushi Kenzo,2026-10-24,5,Chegou rapidinho e quentinho
+426,Pizzaria Bella Napoli,2026-09-25,3,Comida sem sal e sem graça
+427,Açaí Tropical,2026-10-11,5,Entregador super educado e pontual
+428,Marmita da Vovó,2026-09-29,4,Entregador super educado e pontual
+429,Marmita da Vovó,2026-08-14,1,Demorou mais de 1 hora para chegar
+430,Pizzaria Bella Napoli,2026-09-09,2,Muito caro para a quantidade que veio
+431,Marmita da Vovó,2026-08-13,4,"Ótimo custo-benefício, porção generosa"
+432,Pizzaria Bella Napoli,2026-08-06,5,"Comida deliciosa, tempero perfeito"
+433,Burger do Zé,2026-10-26,5,Chegou rapidinho e quentinho
+434,Pizzaria Bella Napoli,2026-10-11,5,"Ótimo custo-benefício, porção generosa"
+435,Sushi Kenzo,2026-08-24,4,"Ótimo custo-benefício, porção generosa"
+436,Açaí Tropical,2026-08-26,4,"Ótimo custo-benefício, porção generosa"
+437,Sushi Kenzo,2026-08-27,1,"Esperei quase 90 minutos, absurdo"
+438,Açaí Tropical,2026-08-24,2,Embalagem abriu e vazou tudo na sacola
+439,Marmita da Vovó,2026-10-07,5,"Embalagem muito bem feita, nada vazou"
+440,Açaí Tropical,2026-08-15,2,Muito caro para a quantidade que veio
+441,Açaí Tropical,2026-10-15,1,Embalagem abriu e vazou tudo na sacola
+442,Pizzaria Bella Napoli,2026-08-15,2,Muito caro para a quantidade que veio
+443,Açaí Tropical,2026-08-18,5,"Ótimo custo-benefício, porção generosa"
+444,Açaí Tropical,2026-10-28,5,Chegou rapidinho e quentinho
+445,Pizzaria Bella Napoli,2026-08-18,2,Muito caro para a quantidade que veio
+446,Burger do Zé,2026-10-02,2,Muito caro para a quantidade que veio
+447,Marmita da Vovó,2026-09-23,5,"Ótimo custo-benefício, porção generosa"
+448,Burger do Zé,2026-10-12,2,Embalagem abriu e vazou tudo na sacola
+449,Sushi Kenzo,2026-10-08,3,Muito caro para a quantidade que veio
+450,Açaí Tropical,2026-08-15,4,"Embalagem muito bem feita, nada vazou"
+451,Marmita da Vovó,2026-10-09,2,Muito caro para a quantidade que veio
+452,Burger do Zé,2026-09-27,1,Pedido atrasou muito e chegou frio
+453,Sushi Kenzo,2026-08-27,5,"Embalagem muito bem feita, nada vazou"
+454,Açaí Tropical,2026-08-18,5,Chegou rapidinho e quentinho
+455,Açaí Tropical,2026-09-05,5,Entregador super educado e pontual
+456,Pizzaria Bella Napoli,2026-10-13,1,Ninguém respondeu minha reclamação no chat
+457,Marmita da Vovó,2026-08-08,5,Chegou rapidinho e quentinho
+458,Sushi Kenzo,2026-09-11,5,"Ótimo custo-benefício, porção generosa"
+459,Açaí Tropical,2026-10-20,1,"Tudo amassado, o açaí derreteu e vazou"
+460,Burger do Zé,2026-09-21,5,"Embalagem muito bem feita, nada vazou"
+461,Marmita da Vovó,2026-09-11,5,"Sabor incrível, repetiria com certeza"
+462,Pizzaria Bella Napoli,2026-08-09,5,"Ótimo custo-benefício, porção generosa"
+463,Sushi Kenzo,2026-10-03,3,Embalagem abriu e vazou tudo na sacola
+464,Marmita da Vovó,2026-09-13,4,"Comida deliciosa, tempero perfeito"
+465,Marmita da Vovó,2026-08-03,1,Carne estava seca e dura
+466,Marmita da Vovó,2026-08-26,5,Entregador super educado e pontual
+467,Pizzaria Bella Napoli,2026-08-12,5,"Embalagem muito bem feita, nada vazou"
+468,Sushi Kenzo,2026-08-07,5,"Embalagem muito bem feita, nada vazou"
+469,Burger do Zé,2026-10-30,1,Demorou mais de 1 hora para chegar
+470,Açaí Tropical,2026-08-29,4,"Ótimo custo-benefício, porção generosa"
+471,Pizzaria Bella Napoli,2026-08-16,5,"Ótimo custo-benefício, porção generosa"
+472,Burger do Zé,2026-08-30,5,"Comida deliciosa, tempero perfeito"
+473,Pizzaria Bella Napoli,2026-09-08,1,"Pedido incompleto, faltou um item"
+474,Burger do Zé,2026-10-07,5,Entregador super educado e pontual
+475,Sushi Kenzo,2026-10-20,5,"Ótimo custo-benefício, porção generosa"
+476,Burger do Zé,2026-08-13,2,"Esperei quase 90 minutos, absurdo"
+477,Pizzaria Bella Napoli,2026-09-24,1,Carne estava seca e dura
+478,Sushi Kenzo,2026-10-10,5,"Embalagem muito bem feita, nada vazou"
+479,Sushi Kenzo,2026-10-06,5,Entregador super educado e pontual
+480,Burger do Zé,2026-08-31,5,"Comida deliciosa, tempero perfeito"
+481,Açaí Tropical,2026-08-10,5,"Melhor hambúrguer da região, muito saboroso"
+482,Sushi Kenzo,2026-09-19,5,"Ótimo custo-benefício, porção generosa"
+483,Marmita da Vovó,2026-08-10,1,Muito caro para a quantidade que veio
+484,Burger do Zé,2026-08-08,5,"Ótimo custo-benefício, porção generosa"
+485,Marmita da Vovó,2026-10-29,4,Entregador super educado e pontual
+486,Pizzaria Bella Napoli,2026-08-11,5,Chegou rapidinho e quentinho
+487,Marmita da Vovó,2026-10-15,5,"Melhor hambúrguer da região, muito saboroso"
+488,Sushi Kenzo,2026-08-08,3,Pedido atrasou muito e chegou frio
+489,Açaí Tropical,2026-08-08,1,Ninguém respondeu minha reclamação no chat
+490,Burger do Zé,2026-10-30,2,Pedido atrasou muito e chegou frio
+491,Açaí Tropical,2026-10-06,5,"Embalagem muito bem feita, nada vazou"
+492,Sushi Kenzo,2026-09-04,5,"Comida deliciosa, tempero perfeito"
+493,Marmita da Vovó,2026-09-04,5,"Embalagem muito bem feita, nada vazou"
+494,Marmita da Vovó,2026-10-05,2,Muito caro para a quantidade que veio
+495,Sushi Kenzo,2026-09-02,4,"Comida deliciosa, tempero perfeito"
+496,Burger do Zé,2026-08-02,1,Pedido atrasou muito e chegou frio
+497,Sushi Kenzo,2026-08-05,5,"Ótimo custo-benefício, porção generosa"
+498,Sushi Kenzo,2026-09-23,4,"Embalagem muito bem feita, nada vazou"
+499,Açaí Tropical,2026-09-17,1,Demorou mais de 1 hora para chegar
+500,Açaí Tropical,2026-08-06,5,"Melhor hambúrguer da região, muito saboroso"
+501,Pizzaria Bella Napoli,2026-09-11,1,Carne estava seca e dura
+502,Pizzaria Bella Napoli,2026-10-12,5,Entregador super educado e pontual
+503,Açaí Tropical,2026-10-03,5,Chegou rapidinho e quentinho
+504,Burger do Zé,2026-09-22,1,"Esperei quase 90 minutos, absurdo"
+505,Pizzaria Bella Napoli,2026-08-01,4,"Ótimo custo-benefício, porção generosa"
+506,Sushi Kenzo,2026-10-07,4,"Ótimo custo-benefício, porção generosa"
+507,Sushi Kenzo,2026-09-05,2,Muito caro para a quantidade que veio
+508,Marmita da Vovó,2026-08-11,4,Entregador super educado e pontual
+509,Açaí Tropical,2026-10-12,2,Faltou a bebida do meu pedido
+510,Pizzaria Bella Napoli,2026-09-10,5,"Ótimo custo-benefício, porção generosa"
+511,Marmita da Vovó,2026-09-04,1,"Pedido incompleto, faltou um item"
+512,Sushi Kenzo,2026-08-14,1,Veio sem o molho que pedi
+513,Açaí Tropical,2026-09-15,5,Entregador super educado e pontual
+514,Marmita da Vovó,2026-09-03,5,"Comida deliciosa, tempero perfeito"
+515,Açaí Tropical,2026-08-06,1,Faltou a bebida do meu pedido
+516,Pizzaria Bella Napoli,2026-09-20,5,"Embalagem muito bem feita, nada vazou"
+517,Burger do Zé,2026-09-21,5,Chegou rapidinho e quentinho
+518,Burger do Zé,2026-08-18,1,Demorou mais de 1 hora para chegar
+519,Sushi Kenzo,2026-09-21,3,Ninguém respondeu minha reclamação no chat
+520,Açaí Tropical,2026-09-03,4,"Comida deliciosa, tempero perfeito"
+521,Sushi Kenzo,2026-10-22,5,Chegou rapidinho e quentinho
+522,Burger do Zé,2026-08-06,5,"Comida deliciosa, tempero perfeito"
+523,Marmita da Vovó,2026-10-03,1,Veio sem o molho que pedi
+524,Sushi Kenzo,2026-09-05,3,"Esperei quase 90 minutos, absurdo"
+525,Açaí Tropical,2026-09-01,5,"Ótimo custo-benefício, porção generosa"
+526,Burger do Zé,2026-08-12,3,Demorou mais de 1 hora para chegar
+527,Sushi Kenzo,2026-10-20,5,"Melhor hambúrguer da região, muito saboroso"
+528,Marmita da Vovó,2026-10-09,5,"Embalagem muito bem feita, nada vazou"
+529,Pizzaria Bella Napoli,2026-08-24,1,Pedido atrasou muito e chegou frio
+530,Marmita da Vovó,2026-10-07,1,Faltou a bebida do meu pedido
+531,Sushi Kenzo,2026-10-24,1,"Pedido incompleto, faltou um item"
+532,Sushi Kenzo,2026-10-13,5,"Ótimo custo-benefício, porção generosa"
+533,Sushi Kenzo,2026-08-31,5,"Embalagem muito bem feita, nada vazou"
+534,Açaí Tropical,2026-10-12,1,Carne estava seca e dura
+535,Marmita da Vovó,2026-08-05,1,Muito caro para a quantidade que veio
+536,Açaí Tropical,2026-10-01,2,Faltou a bebida do meu pedido
+537,Sushi Kenzo,2026-09-11,1,"Pedido incompleto, faltou um item"
+538,Burger do Zé,2026-10-07,5,"Melhor hambúrguer da região, muito saboroso"
+539,Açaí Tropical,2026-08-13,2,Embalagem abriu e vazou tudo na sacola
+540,Marmita da Vovó,2026-10-23,1,Muito caro para a quantidade que veio
+541,Açaí Tropical,2026-08-23,1,Embalagem abriu e vazou tudo na sacola
+542,Burger do Zé,2026-10-29,5,"Ótimo custo-benefício, porção generosa"
+543,Açaí Tropical,2026-09-10,5,Chegou rapidinho e quentinho
+544,Sushi Kenzo,2026-09-12,5,Entregador super educado e pontual
+545,Sushi Kenzo,2026-10-21,5,"Sabor incrível, repetiria com certeza"
+546,Marmita da Vovó,2026-08-02,2,Muito caro para a quantidade que veio
+547,Pizzaria Bella Napoli,2026-08-14,5,"Melhor hambúrguer da região, muito saboroso"
+548,Marmita da Vovó,2026-08-22,5,"Ótimo custo-benefício, porção generosa"
+549,Açaí Tropical,2026-09-18,1,Embalagem abriu e vazou tudo na sacola
+550,Marmita da Vovó,2026-08-10,4,"Melhor hambúrguer da região, muito saboroso"
+551,Pizzaria Bella Napoli,2026-09-03,5,"Melhor hambúrguer da região, muito saboroso"
+552,Marmita da Vovó,2026-08-21,5,"Melhor hambúrguer da região, muito saboroso"
+553,Burger do Zé,2026-09-25,5,Entregador super educado e pontual
+554,Burger do Zé,2026-08-13,2,Carne estava seca e dura
+555,Pizzaria Bella Napoli,2026-08-31,1,Carne estava seca e dura
+556,Burger do Zé,2026-09-16,3,"Esperei quase 90 minutos, absurdo"
+557,Marmita da Vovó,2026-08-26,1,Muito caro para a quantidade que veio
+558,Marmita da Vovó,2026-08-15,2,Muito caro para a quantidade que veio
+559,Burger do Zé,2026-10-22,5,Entregador super educado e pontual
+560,Pizzaria Bella Napoli,2026-08-24,5,"Embalagem muito bem feita, nada vazou"
+561,Pizzaria Bella Napoli,2026-08-29,4,"Comida deliciosa, tempero perfeito"
+562,Burger do Zé,2026-10-25,1,"Esperei quase 90 minutos, absurdo"
+563,Açaí Tropical,2026-08-08,5,"Ótimo custo-benefício, porção generosa"
+564,Marmita da Vovó,2026-09-08,3,Ninguém respondeu minha reclamação no chat
+565,Açaí Tropical,2026-10-06,5,Chegou rapidinho e quentinho
+566,Sushi Kenzo,2026-08-22,4,Chegou rapidinho e quentinho
+567,Marmita da Vovó,2026-08-11,5,"Ótimo custo-benefício, porção generosa"
+568,Açaí Tropical,2026-09-03,2,Demorou mais de 1 hora para chegar
+569,Açaí Tropical,2026-09-20,4,"Embalagem muito bem feita, nada vazou"
+570,Açaí Tropical,2026-10-15,5,"Ótimo custo-benefício, porção generosa"
+571,Sushi Kenzo,2026-08-19,4,"Comida deliciosa, tempero perfeito"
+572,Pizzaria Bella Napoli,2026-10-08,5,"Ótimo custo-benefício, porção generosa"
+573,Marmita da Vovó,2026-10-13,5,"Comida deliciosa, tempero perfeito"
+574,Marmita da Vovó,2026-08-19,5,"Ótimo custo-benefício, porção generosa"
+575,Pizzaria Bella Napoli,2026-10-28,1,"Tudo amassado, o açaí derreteu e vazou"
+576,Pizzaria Bella Napoli,2026-09-08,1,Ninguém respondeu minha reclamação no chat
+577,Sushi Kenzo,2026-09-08,5,"Ótimo custo-benefício, porção generosa"
+578,Marmita da Vovó,2026-10-17,5,Entregador super educado e pontual
+579,Marmita da Vovó,2026-10-02,5,"Embalagem muito bem feita, nada vazou"
+580,Burger do Zé,2026-09-09,4,"Ótimo custo-benefício, porção generosa"
+581,Sushi Kenzo,2026-08-25,5,Chegou rapidinho e quentinho
+582,Burger do Zé,2026-09-28,2,Demorou mais de 1 hora para chegar
+583,Pizzaria Bella Napoli,2026-09-29,4,"Sabor incrível, repetiria com certeza"
+584,Sushi Kenzo,2026-09-17,5,"Ótimo custo-benefício, porção generosa"
+585,Açaí Tropical,2026-10-10,1,"Tudo amassado, o açaí derreteu e vazou"
+586,Pizzaria Bella Napoli,2026-08-04,5,Chegou rapidinho e quentinho
+587,Sushi Kenzo,2026-10-26,1,Muito caro para a quantidade que veio
+588,Marmita da Vovó,2026-08-17,5,"Comida deliciosa, tempero perfeito"
+589,Açaí Tropical,2026-09-09,5,"Embalagem muito bem feita, nada vazou"
+590,Pizzaria Bella Napoli,2026-09-28,3,Carne estava seca e dura
+591,Burger do Zé,2026-08-01,5,"Embalagem muito bem feita, nada vazou"
+592,Burger do Zé,2026-10-01,2,"Atendimento ruim, fui ignorado"
+593,Pizzaria Bella Napoli,2026-10-23,5,"Embalagem muito bem feita, nada vazou"
+594,Açaí Tropical,2026-08-31,5,"Ótimo custo-benefício, porção generosa"
+595,Burger do Zé,2026-10-23,5,"Embalagem muito bem feita, nada vazou"
+596,Marmita da Vovó,2026-09-19,5,Entregador super educado e pontual
+597,Açaí Tropical,2026-10-21,5,"Embalagem muito bem feita, nada vazou"
+598,Açaí Tropical,2026-08-24,3,"Tudo amassado, o açaí derreteu e vazou"
+599,Sushi Kenzo,2026-10-27,5,"Comida deliciosa, tempero perfeito"
+600,Sushi Kenzo,2026-09-09,5,"Embalagem muito bem feita, nada vazou"

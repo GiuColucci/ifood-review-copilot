@@ -1,0 +1,21 @@
+{
+  "name": "Review Copilot - alerta de avaliação crítica",
+  "nodes": [
+    {"parameters": {"httpMethod": "POST", "path": "nova-avaliacao", "responseMode": "lastNode"},
+     "name": "Webhook nova avaliação", "type": "n8n-nodes-base.webhook", "typeVersion": 2, "position": [0, 0]},
+    {"parameters": {"model": "claude-haiku-5-5", "maxTokens": 300,
+       "prompt": "Classifique a avaliação. Responda só JSON {\"tema\":..., \"sentimento\":..., \"urgencia\":\"alta|media|baixa\", \"resposta_sugerida\":\"...\"}.\nAvaliação: {{ $json.body.texto }} (nota {{ $json.body.nota }})"},
+     "name": "Claude classifica", "type": "@n8n/n8n-nodes-langchain.anthropic", "typeVersion": 1, "position": [260, 0]},
+    {"parameters": {"conditions": {"string": [{"value1": "={{ JSON.parse($json.text).urgencia }}", "value2": "alta"}]}},
+     "name": "Urgência alta?", "type": "n8n-nodes-base.if", "typeVersion": 1, "position": [520, 0]},
+    {"parameters": {"channel": "#ops-restaurantes", "text": "🚨 Avaliação crítica em {{ $('Webhook nova avaliação').item.json.body.restaurante }}: {{ $('Webhook nova avaliação').item.json.body.texto }}\nSugestão de resposta: {{ JSON.parse($json.text).resposta_sugerida }}"},
+     "name": "Alerta no Slack", "type": "n8n-nodes-base.slack", "typeVersion": 2, "position": [780, -80]},
+    {"parameters": {"operation": "append", "sheetName": "avaliacoes"},
+     "name": "Registrar na planilha", "type": "n8n-nodes-base.googleSheets", "typeVersion": 4, "position": [780, 100]}
+  ],
+  "connections": {
+    "Webhook nova avaliação": {"main": [[{"node": "Claude classifica", "type": "main", "index": 0}]]},
+    "Claude classifica": {"main": [[{"node": "Urgência alta?", "type": "main", "index": 0}]]},
+    "Urgência alta?": {"main": [[{"node": "Alerta no Slack", "type": "main", "index": 0}], [{"node": "Registrar na planilha", "type": "main", "index": 0}]]}
+  }
+}
