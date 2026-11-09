@@ -4,6 +4,8 @@ Agente de IA que lê avaliações de restaurantes, identifica os problemas mais 
 
 Projeto de portfólio para a trilha **AI Builder**: usar IA como alavanca para resolver um problema de negócio de ponta a ponta, sem backend próprio.
 
+![Dashboard do Review Copilot](docs/dashboard.png)
+
 ## Sumário
 - [O problema](#o-problema)
 - [A solução](#a-solução)
